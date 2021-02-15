@@ -13,6 +13,11 @@
 > "The best minds of my generation are thinking about how to make people click ads," Jeff Hammerbacher, an early Facebook Engineer, told me.
 
 > In 2005, Huebener delivered a paper, "A Possible Declining Trend in Worldwide Innovation" which was either an eindictment of Silicon Valley or at least an ominous warning.  
+> ...
+> Man has already climbed past the trunk of the tree and gone out on its major limbs, mining most of the really big, game-changing ideas - the wheel, electricity, the airplane, the telephone, the transistor. Now, we're left dangling near the end of the branches at the top of the tree and mostly refining the past inventions.
+> ...
+> "I think the probability of us discovering another top-one-hundred-type invention gets smaller and smaller," Hubner told me in an interview. "Innovation is a finite resource."
+
 
 ## Chapter 2. Africa
 > "He points out that one of the really tough things is figuring out what question to ask", Musk said.
